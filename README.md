@@ -23,6 +23,12 @@ var F2F = new f2f();
 F2F.simplef2f('ثقلین'); // Outputs: "saghlin"
 F2F.simplef2f('قسطنطنیه'); // Outputs: "ghastntnih"
 ```
+# F2F
+Farsi to Finglish, a Persian transliterator
+
+# API
+## https://peymanmajidi.github.io/finglish_js/?word=سلام
+
 
 ### Browser
 ```html
